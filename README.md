@@ -1,16 +1,17 @@
-# React + Vite
+# Advanced Redux Toolkit Management ⚛️
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A high-performance application demonstrating enterprise-level state management using Redux Toolkit (RTK).
 
-Currently, two official plugins are available:
+### ✨ Key Features
+- **Efficient State Slices:** Used `createSlice` for modular and scalable state logic.
+- **Asynchronous Logic:** Implemented `createAsyncThunk` for seamless API data fetching.
+- **Strict Data Flow:** Ensured predictable state updates with Redux actions and reducers.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### 🛠️ Tech Stack
+- **Frontend:** React.js / Next.js
+- **State Management:** Redux Toolkit
+- **Data Fetching:** Axios / RTK Query
+- **Tools:** Hooks (useReducer, lazy)
+  
+### 💡 Why Redux Toolkit?
+This project showcases my ability to handle complex global states in large-scale applications, ensuring data consistency and a smooth user experience across all components.
